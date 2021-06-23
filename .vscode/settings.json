@@ -2,8 +2,16 @@
   "files.exclude": {
     ".git": true,
     ".gitignore": true,
+    ".github": true,
+    ".deploy_git": true,
+    ".vscode": true,
+    "public": true,
     "node_modules": true,
     "package.json": true,
-    "yarn.lock": true
+    "yarn.lock": true,
+    "db.json": true,
+    "themes": true,
+    "_config.yml": true,
+    "_config.landscape.yml": true
   }
 }
