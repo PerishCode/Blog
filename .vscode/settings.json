@@ -6,11 +6,11 @@
     ".deploy_git": true,
     ".vscode": true,
     "public": true,
+    "themes": false,
     "node_modules": true,
     "package.json": true,
     "yarn.lock": true,
     "db.json": true,
-    "themes": true,
     "_config.yml": true,
     "_config.landscape.yml": true
   }
